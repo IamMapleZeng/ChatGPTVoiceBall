@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LSPosed recommended scope:
+         1. android (系统框架): 语音状态监听、小窗拉起、静音/挂断、超级岛过滤
+         2. com.android.systemui (系统界面): 超级岛精准过滤
+         3. com.openai.chatgpt (ChatGPT): 逐字实时对话字幕提取 -->
+    <string-array name="xposed_scope">
+        <item>android</item>
+        <item>com.android.systemui</item>
+        <item>com.openai.chatgpt</item>
+    </string-array>
+</resources>

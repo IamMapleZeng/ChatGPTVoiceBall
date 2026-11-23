@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- ChatGPT Voice style muted microphone with clean diagonal slash -->
+    <path
+        android:fillColor="#D93025"
+        android:pathData="M15.5,10.5V5.5C15.5,3.57 13.93,2 12,2C10.58,2 9.35,2.85 8.81,4.07L15.5,10.76V10.5Z" />
+    <path
+        android:fillColor="#D93025"
+        android:pathData="M8.5,8.2V11C8.5,12.93 10.07,14.5 12,14.5C12.56,14.5 13.09,14.37 13.56,14.13L8.5,9.07V8.2Z" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M5.5,10.5C5.5,14.09 8.41,17 12,17C13.38,17 14.66,16.57 15.71,15.83"
+        android:strokeWidth="2.1"
+        android:strokeColor="#D93025"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M12,17V21M9,21H15"
+        android:strokeWidth="2.1"
+        android:strokeColor="#D93025"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M3.5,3.5L20.5,20.5"
+        android:strokeWidth="2.2"
+        android:strokeColor="#D93025"
+        android:strokeLineCap="round" />
+</vector>

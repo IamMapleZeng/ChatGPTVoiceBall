@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatGPTVoiceBall</string>
+    <string name="xposed_description">澎湃 OS 4 系统小窗直达 ChatGPT 官方语音模式（作用域仅需勾选系统框架 android）</string>
+</resources>

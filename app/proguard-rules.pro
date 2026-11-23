@@ -1,0 +1,2 @@
+-keep class io.github.iammaplezeng.chatgptvoiceball.xposed.** { *; }
+-dontwarn de.robv.android.xposed.**
